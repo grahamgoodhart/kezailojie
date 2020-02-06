@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohvahyaer.jiongni.com/sitemap.xml
